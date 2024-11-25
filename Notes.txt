@@ -1,0 +1,19 @@
+Index.html/GiaPhaBenNgoai.html		OK
+	- GiaPhaBaSoHai.pdf		OK
+
+	- GiaPhaOngSoBa.html		OK
+		-GiaPhaOngSoBa1.pdf	OK
+		-GiaPhaOngSoBa2.pdf	OK
+
+	- GiaPhaBaSoTu.pdf		OK
+
+	- GiaPhaOngSoNam.html		OK
+		-GiaPhaOngSoNam1.pdf	OK
+
+	- GiaPhaOngSoSau.html		OK
+		-GiaPhaOngSoSau1.pdf	OK
+		-GiaPhaOngSoSau2.pdf	OK
+		-GiaPhaOngSoSau3.pdf	OK
+
+No of Files = 12. Html files = 4, pdf files = 8
+
